@@ -3,7 +3,7 @@ fast personal cheatsheet
 
 **Table Of Contents**
 - [if](#if)
--- [string comparison](#string-comparison)
+- - [string comparison](#string-comparison)
 
 
 ## if ##
