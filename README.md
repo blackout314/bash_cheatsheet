@@ -1,4 +1,4 @@
-![bash](bash-logo.jpg)
+![bash](bash-logo.png)
 
 # bash_cheatsheet #
 fast personal cheatsheet
