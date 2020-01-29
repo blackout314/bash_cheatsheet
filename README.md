@@ -1,6 +1,10 @@
 # bash_cheatsheet #
 fast personal cheatsheet
 
+**Table Of Contents**
+- [if](#if)
+-- [string comparison](#string-comparison)
+
 
 ## if ##
 ### string comparison ###
